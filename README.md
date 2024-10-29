@@ -11,7 +11,7 @@
 ## 2. 🏴 취약 이웃 위치 신고 (/loc_cam/:id/a)<br/>
 &nbsp;&nbsp;&nbsp; ✔️현 위치 확인 후 오류 있을 경우 핀 선택 및 주소 입력 ➡️ ✔️불편 내용 접수 ➡️ 현장 사진 접수 ➡️ 등록하기 <br/><br/>
 &nbsp;&nbsp;&nbsp;1. <strong>현 위치 정보</strong> 확인<br/>
-&nbsp;&nbsp;&nbsp;2. webRTC <strong>사진 전송</strong> 기능<br/>
+&nbsp;&nbsp;&nbsp;2. <strong>사진 전송</strong> 기능<br/>
 &nbsp;&nbsp;&nbsp;3. 서버로 위도, 경도, 위치 및 사진 전송<br/>
 <div align="center">
       <img src="https://user-images.githubusercontent.com/96722691/205235046-0e25a792-298c-47f9-b919-9f2c21db395d.png"  width="300" >
@@ -27,7 +27,7 @@
 ## 3. 🚩 재난 위험 사진 신고 (/call_cam/:id/b)<br/>
 &nbsp;&nbsp;&nbsp; ✔️재난 유형 선택 ➡️ ✔️현 위치 확인 후 오류 있을 경우 핀 선택 및 주소 입력 ➡️ ✔️현장 사진 접수 ➡️ 불편 내용 접수  ➡️ 등록하기 <br/><br/>
 &nbsp;&nbsp;&nbsp;1. <strong>현 위치 정보</strong> 확인<br/>
-&nbsp;&nbsp;&nbsp;2. webRTC <strong>사진 전송</strong> 기능<br/>
+&nbsp;&nbsp;&nbsp;2. <strong>사진 전송</strong> 기능<br/>
 &nbsp;&nbsp;&nbsp;3. <strong>재난 유형</strong> 선택 ▶ 수해, 산불, 교통사고, 지진, 자연재난, 사회재난<br/>
 &nbsp;&nbsp;&nbsp;4. 서버로 위도, 경도, 위치 및 사진 전송<br/>
 <div align="center">
